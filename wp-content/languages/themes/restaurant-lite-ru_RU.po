@@ -1,0 +1,488 @@
+# Translation of Themes - Restaurant Lite in Russian
+# This file is distributed under the same license as the Themes - Restaurant Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-13 18:16:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Restaurant Lite\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Restaurant Lite"
+msgstr "Restaurant Lite"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "SKT Restaurant is a simple, adaptable and flexible restaurant WordPress theme which is responsive, google mobile friendly and is a multipurpose WordPress theme. Can be used by restaurant, hotel, cafe, coffee shops, lodge, business, corporate and commercial websites. Compatible with contact form 7, nextgen gallery and WooCommerce. Demo Link: http://sktthemesdemo.net/restro/"
+msgstr "SKT Restaurant - это простая, адаптивная и гибкая тема WordPress для ресторанов, отзывчивая, дружественная к мобильным устройствам Google и многоцелевая тема WordPress. Может использоваться для создания сайтов ресторанов, гостиниц, кафе, кофеен, домиков, деловых, корпоративных и коммерческих сайтов. Совместима с contact form 7, nextgen gallery и WooCommerce. Ссылка на демонстрацию: http://sktthemesdemo.net/restro/"
+
+#: inc/customizer.php:163
+msgid "Click Here ?"
+msgstr "Нажмите здесь?"
+
+#: inc/customizer.php:85
+msgid "Slider Image Dimensions ( 1400 X 648 )<br/> Select Featured Image for these pages <br /> How to set featured image <a href=\"%1$s\" target=\"_blank\">Click Here ?</a><br/><br/> More slider settings available in <a href=\"%2$s\" target=\"_blank\">PRO Version</a>"
+msgstr "Размеры изображения слайдера (1400 X 648)<br/> Выберите избранное изображение для этих страниц <br /> Как установить избранное изображение <a href=\"%1$s\" target=\"_blank\">Нажмите здесь?</a> <br/><br/> Дополнительные настройки ползунка доступны в <a href=\"%2$s\" target=\"_blank\">PRO версии</a>"
+
+#: inc/customizer.php:163
+msgid "Select Pages from the dropdown.<br/><br/>Featured Image Dimensions : ( 343 X 297 )<br/> Select Featured Image for these pages. <br /><br /> How to set featured image %s"
+msgstr "В раскрывающемся списке выберите Страницы.<br/><br/>Размеры изображений страницы: (343 X 297)<br/> Выберите  изображения для этих страниц. <br /><br /> Как установить изображение страницы %s"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Рубрика"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Поиск…"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результат поиска для: %s"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Повторите поиск с другими ключевыми словами."
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/template-tags.php:184
+msgid "<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\"> Опубликовано %1$s </span> <span class=\"byline\"> по %2$s </span>"
+
+#: inc/template-tags.php:86
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает одобрения."
+
+#: inc/template-tags.php:70
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: inc/template-tags.php:47
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:43
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие записи"
+
+#: inc/template-tags.php:38
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:37
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: inc/customizer.php:337
+msgid "Contact Details"
+msgstr "Контактная информация"
+
+#: inc/customizer.php:362
+msgid "Add contact number here."
+msgstr "Добавьте контактный номер здесь."
+
+#: inc/customizer.php:338
+msgid "Add you contact details here"
+msgstr "Укажите здесь детальную информацию"
+
+#: inc/customizer.php:373
+msgid "Add you email here"
+msgstr "Добавьте свой email-адрес здесь"
+
+#: inc/customizer.php:425
+msgid "Documentation &amp; Support"
+msgstr "Документация и поддержка"
+
+#: inc/customizer.php:261
+msgid "Add footer copyright text"
+msgstr "Добавить текст об авторских правах в подвал"
+
+#: inc/customizer.php:270
+msgid "To remove credit &amp; copyright text upgrade to PRO version"
+msgstr "Чтобы удалить текст кредита и авторских прав, обновите версию до PRO."
+
+#: inc/customizer.php:282
+msgid "Add title for menu"
+msgstr "Добавить название для меню"
+
+#: inc/customizer.php:294
+msgid "Add title for our philosophy"
+msgstr "Добавьте описание нашей философии."
+
+#: inc/customizer.php:306
+msgid "Add description for our philosophy"
+msgstr "Добавьте описание нашей философии."
+
+#: inc/customizer.php:318
+msgid "Add title for footer social icons"
+msgstr "Добавить название для значков соцсетей в футере"
+
+#: inc/customizer.php:330
+msgid "Add title for footer contact info"
+msgstr "Добавить заголовок для контактной информации подвала"
+
+#: inc/customizer.php:344
+msgid "100 King St, Melbourne PIC 4000, Australia"
+msgstr "100 King St, Melbourne PIC 4000, Australia"
+
+#: inc/customizer.php:350
+msgid "Add contact address here"
+msgstr "Добавьте контактный адрес здесь"
+
+#: inc/customizer.php:357
+msgid "Phone: +123 456 7890"
+msgstr "Телефон: +123 456 7890"
+
+#: inc/customizer.php:379
+msgid "Layout Settings (PRO Version)"
+msgstr "Настройки макета (версия PRO)"
+
+#: inc/customizer.php:381
+msgid "Layout Settings available in   %s."
+msgstr "Настройки макета доступны в %s."
+
+#: inc/customizer.php:402
+msgid "Fonts Settings (PRO Version)"
+msgstr "Настройки шрифтов (версия PRO)"
+
+#: inc/customizer.php:404
+msgid "Font Settings available in   %s."
+msgstr "Настройки шрифта доступны в %s."
+
+#: inc/customizer.php:427
+msgid "For documentation and support check this link %s."
+msgstr "Для получения документации и поддержки перейдите по этой ссылке %s."
+
+#: inc/customizer.php:427
+msgid "Restaurant Documentation"
+msgstr "Документация по Restaurant"
+
+#: inc/customizer.php:206
+msgid "Social Settings"
+msgstr "Настройка соцсетей"
+
+#: inc/customizer.php:100
+msgid "Select page for slide one:"
+msgstr "Выберите страницу для первого слайдера:"
+
+#: inc/customizer.php:112
+msgid "Select page for slide two:"
+msgstr "Выберите страницу для второго слайдера:"
+
+#: inc/customizer.php:124
+msgid "Select page for slide three:"
+msgstr "Выберите страницу для третьего слайдера:"
+
+#: inc/customizer.php:219
+msgid "Add facebook link here"
+msgstr "Добавьте ссылку на Facebook здесь"
+
+#: inc/customizer.php:230
+msgid "Add twitter link here"
+msgstr "Добавьте ссылку на Twitter здесь"
+
+#: inc/customizer.php:250
+msgid "Add linkedin link here"
+msgstr "Добавьте ссылку на LinkedIn здесь"
+
+#: inc/customizer.php:259
+msgid "Footer Area"
+msgstr "Область подвала"
+
+#: inc/customizer.php:240
+msgid "Add google plus link here"
+msgstr "Добавьте ссылку на Google Plus здесь."
+
+#: inc/customizer.php:130
+msgid "Homepage Welcome Section"
+msgstr "Главная страница, раздел Добро пожаловать"
+
+#: inc/customizer.php:131
+msgid "Select Page from the dropdown for first section"
+msgstr "Выберите Страница из раскрывающегося списка для первого раздела."
+
+#: inc/customizer.php:153
+msgid "Add link more info button for welcome section"
+msgstr "Добавить ссылку на кнопку дополнительной информации для раздела приветствия"
+
+#: inc/customizer.php:162
+msgid "Homepage Three Boxes Section"
+msgstr "Домашняя страница Three Boxes Section"
+
+#: inc/customizer.php:207
+msgid "More social icon available in %s."
+msgstr "Больше значков соцсети доступно в %s."
+
+#: inc/customizer.php:84
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:76
+msgid "More color options in %s."
+msgstr "Больше вариантов цвета в %s."
+
+#: inc/customizer.php:75
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: inc/customizer.php:48
+msgid "Logo (PRO Version)"
+msgstr "Логотип (PRO-версия)"
+
+#: inc/customizer.php:50
+msgid "Logo Settings available in %s."
+msgstr "Настройки логотипа доступны в %s."
+
+#: inc/customizer.php:50 inc/customizer.php:76 inc/customizer.php:207
+#: inc/customizer.php:381 inc/customizer.php:404
+msgid "PRO Version"
+msgstr "Версия PRO"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующая <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущая"
+
+#: header.php:219 header.php:278
+msgid "Welcome to Our Restaurant"
+msgstr "Добро пожаловать в Our Restaurant"
+
+#: header.php:220 header.php:279
+msgid "Donec porta quis justo id pulvinar. Integer sed varius velit. Sed turpis nunc, imperdiet at mi nec, maximus maximus odio. Integer vel molestie ante. Curabitur blandit, purus id scelerisque posuere, enim diam mattis odio, vitae cursus nulla ex malesuada nisi. Pellentesque facilisis ullamcorper lacus, a lobortis urna porttitor eu. Suspendisse rutrum velit tellus, id volutpat risus condimentum non. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut sit amet aliquet metus, porttitor iaculis nunc. Quisque cursus ipsum ac lacinia faucibus. Quisque id dui vulputate, varius lectus vitae, congue purus Quisque id dui vulputate, varius lectus vitae, congue purus"
+msgstr "Donec porta quis justo id pulvinar. Integer sed varius velit. Sed turpis nunc, imperdiet at mi nec, maximus maximus odio. Integer vel molestie ante. Curabitur blandit, purus id scelerisque posuere, enim diam mattis odio, vitae cursus nulla ex malesuada nisi. Pellentesque facilisis ullamcorper lacus, a lobortis urna porttitor eu. Suspendisse rutrum velit tellus, id volutpat risus condimentum non. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut sit amet aliquet metus, porttitor iaculis nunc. Quisque cursus ipsum ac lacinia faucibus. Quisque id dui vulputate, varius lectus vitae, congue purus Quisque id dui vulputate, varius lectus vitae, congue purus"
+
+#: header.php:251 header.php:310
+msgid "Special Menu"
+msgstr "Специальное меню"
+
+#: header.php:231 header.php:290
+msgid "Todays Special"
+msgstr "Сегодняшнее специальное предложение"
+
+#: image.php:23
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Опубликовано <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> в <a href=\"%3$s\">%4$s &times; %5$s</a> в <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: header.php:214 header.php:221 header.php:273 header.php:280
+msgid "More Info"
+msgstr "Дополнительная информация"
+
+#: header.php:193
+msgid "Menu"
+msgstr "Меню"
+
+#. Translators: If there has any character that are not supported by Scada,
+#. translate this to off, do not translate into your own language.
+#: functions.php:94
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:61
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: functions.php:62
+msgid "Appears on blog page sidebar"
+msgstr "Появится на боковой панели страницы блога"
+
+#. Translators: If there are any character that are not supported by Roboto
+#. Condensed, trsnalate this to off, do not translate into your own language.
+#: functions.php:81
+msgctxt "roboto_condensed:on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:88
+msgctxt "playball:on or off"
+msgid "on"
+msgstr "on"
+
+#: footer.php:26 inc/customizer.php:312
+msgid "Follow Us"
+msgstr "Присоединяйтесь к нам"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:21 inc/customizer.php:288
+msgid "Our Philosophy"
+msgstr "Наша философия"
+
+#: footer.php:22 inc/customizer.php:300
+msgid "Consectetur, adipisci velit, sed quiaony on numquam eius modi tempora incidunt, ut laboret dolore agnam aliquam quaeratine voluptatem. ut enim ad minima veniamting suscipit lab"
+msgstr "Consectetur, adipisci velit, sed quiaony on numquam eius modi tempora incidunt, ut laboret dolore agnam aliquam quaeratine voluptatem. ut enim ad minima veniamting suscipit lab"
+
+#: footer.php:53 inc/customizer.php:324
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: footer.php:54
+msgid "100 King St, Melbourne PIC 4000,<br /> Australia"
+msgstr "100 King St, Melbourne PIC 4000,<br /> Australia"
+
+#: footer.php:55
+msgid "<strong>Phone:</strong> +123 456 7890"
+msgstr "<strong>Телефон:</strong> +123 456 7890"
+
+#: footer.php:13 inc/customizer.php:276
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: content.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:22
+msgid "Read More &raquo;"
+msgstr "Читать далее..."
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "&nbsp;|&nbsp; Метки: "
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ", "
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:70 inc/template-tags.php:89
+msgid "Edit"
+msgstr "Изменить"
+
+#: content-page.php:18 content-single.php:33 content.php:29 image.php:59
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Одна мысль о &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s мыслей о &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s мыслей о &ldquo;%2$s&rdquo;"
+
+#: archive.php:62 sidebar.php:18
+msgid "Archives"
+msgstr "Архивы"
+
+#: archive.php:59
+msgid "Links"
+msgstr "Ссылки"
+
+#: archive.php:56
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: archive.php:53
+msgid "Videos"
+msgstr "Видео"
+
+#: archive.php:50
+msgid "Images"
+msgstr "Изображения"
+
+#: archive.php:47
+msgid "Asides"
+msgstr "Заметки"
+
+#: archive.php:44
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: archive.php:41
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: archive.php:38
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: archive.php:30
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: 404.php:14
+msgid "<strong>404</strong> Not Found"
+msgstr "<strong>404</strong> не найдено"
+
+#: 404.php:17
+msgid "Looks like you have taken a wrong turn.....<br />Don't worry... it happens to the best of us."
+msgstr "Кажется, вы ошиблись…<br />Не волнуйтесь… это случается с лучшими из нас."
+
+#. Author of the theme
+#: style.css footer.php:70
+#, gp-priority: low
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.sktthemes.org"
+msgstr "https://www.sktthemes.org"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.sktthemes.org/shop/restaurant-lite/"
+msgstr "https://www.sktthemes.org/shop/restaurant-lite/"

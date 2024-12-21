@@ -1,0 +1,584 @@
+# Translation of Themes - lzrestaurant in Russian
+# This file is distributed under the same license as the Themes - lzrestaurant package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-30 14:36:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - lzrestaurant\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "lzrestaurant"
+msgstr "lzrestaurant"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "LZ Restaurant is a multipurpose WordPress theme developed especially for websites that deal with coffee, café, cakes, bakery, cuisine, recipe, fast food, Chinese dishes, and other eatery businesses. This is the must-have theme for food critics and bloggers to establish beautiful websites for bakery, pizza, dinner, party, cuisine, barbecues, hotel, food joint, Italian restaurants, lodge, and grill houses. The clean restaurant theme is purely mobile responsive supporting all screen size devices. The theme is so user-friendly and easily customizable that even if you aren’t a professional developer, you can work on it. You get ample of personalization options to modify the theme into your choice of look and appearance. The theme has an elegant banner thereby allowing you to feature your business in the best manner on the homepage itself. The testimonial section makes it more alluring as it displays the feedback given by people who have visited your WordPress website. Furthermore, the Call to action (CTA) button drives in abundance of clicks giving a boost in lead generation. The restaurant theme is highly interactive with a number of pages to display stunning meals! The different shortcodes keep you away from indulging in the source code. The social media integration removes the need to have additional social media plugins. The SEO friendly nature of the theme guarantees to bring your site on top of search engines. Built on Bootstrap, using optimized codes, the theme is clean and extremely lightweight. Launch your very own entirely functional WP restaurant website with this amazing theme now! Check Demo: https://www.luzukdemo.com/demo/lz-restaurant/"
+msgstr "LZ Restaurant — это многоцелевая тема WordPress, разработанная специально для веб-сайтов, посвященных кофе, кафе, пирожным, хлебобулочным изделиям, кухне, рецептам, фаст-фуду, китайским блюдам и другим предприятиям общественного питания. Это обязательная тема для кулинарных критиков и блоггеров, позволяющая создавать красивые веб-сайты о пекарнях, пицце, ужинах, вечеринках, кухне, барбекю, отелях, ресторанах, итальянских ресторанах, домиках и гриль-хаусах. Тема «Чистый ресторан» полностью адаптирована для мобильных устройств и поддерживает устройства с любым размером экрана. Тема настолько удобна для пользователя и легко настраивается, что даже если вы не профессиональный разработчик, вы сможете над ней работать. Вы получаете множество возможностей персонализации, позволяющих изменить внешний вид темы по вашему выбору. Тема имеет элегантный баннер, что позволяет вам наилучшим образом представить свой бизнес на самой главной странице. Раздел отзывов делает его более привлекательным, поскольку в нем отображаются отзывы людей, посетивших ваш сайт WordPress. Кроме того, кнопка «Призыв к действию» (CTA) обеспечивает большое количество кликов, что приводит к увеличению количества потенциальных клиентов. Тема ресторана очень интерактивна: на нескольких страницах представлены потрясающие блюда! Различные короткие коды не позволяют вам заниматься исходным кодом. Интеграция с социальными сетями устраняет необходимость в дополнительных плагинах социальных сетей. SEO-дружественный характер темы гарантирует вывод вашего сайта на вершину поисковых систем. Созданная на основе Bootstrap с использованием оптимизированных кодов, тема чистая и чрезвычайно легкая. Запустите свой собственный полностью функциональный веб-сайт ресторана WP с этой удивительной темой прямо сейчас! Проверьте демо: https://www.luzukdemo.com/demo/lz-restaurant/"
+
+#: inc/customizer.php:180
+msgid "<b>Note :</b> Add Social Link here"
+msgstr "<b>Примечание.</b> Добавьте сюда ссылку на соцсеть."
+
+#: template-parts/footer/site-info.php:12
+msgid "Restaurant WordPress Theme By Luzuk"
+msgstr "Тема Restaurant для WordPress от Luzuk"
+
+#: inc/customizer.php:344
+msgid "Slider Excerpt Length"
+msgstr "Длина отрывка слайдера"
+
+#: inc/customizer.php:589
+msgid "Copyright Top Bottom Padding"
+msgstr "Нижней внутренний отступ авторского права"
+
+#: inc/customizer.php:114
+msgid "Site Tagline Font Size"
+msgstr "Размер шрифта описания сайта"
+
+#: inc/customizer.php:85
+msgid "Site Title Font Size"
+msgstr "Размер шрифта названия сайта"
+
+#: inc/customizer.php:547
+msgid "Show / Hide Back to Top"
+msgstr "Перейти на верх показать/скрыть"
+
+#: functions.php:264
+msgid "https://www.luzukdemo.com/demo/lz-restaurant/"
+msgstr "https://www.luzukdemo.com/demo/lz-restaurant/"
+
+#: inc/customizer.php:25
+msgid "Logo Padding"
+msgstr "Внутренний отступ логотипа"
+
+#: inc/customizer.php:35
+msgid "Top"
+msgstr "Сверху"
+
+#: inc/customizer.php:45
+msgid "Bottom"
+msgstr "Снизу"
+
+#: inc/customizer.php:55
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer.php:65
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer.php:493
+msgid "Section Top Bottom Padding"
+msgstr "Нижней внутренний отступ верхнего раздела"
+
+#: inc/customizer.php:75
+msgid "Show / Hide Site Title"
+msgstr "Название сайта: показать/скрыть"
+
+#: inc/customizer.php:104
+msgid "Show / Hide Site Tagline"
+msgstr "Краткое описание сайта: показать/скрыть"
+
+#: searchform.php:16
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: inc/customizer.php:212
+msgid "Add Instagram link"
+msgstr "Добавьте ссылку на Instagram"
+
+#: header.php:94
+msgid "Instagram"
+msgstr "Instagram"
+
+#: functions.php:265
+msgid "https://www.luzukdemo.com/docs/lz-restaurant/"
+msgstr "https://www.luzukdemo.com/docs/lz-restaurant/"
+
+#: functions.php:266
+msgid "https://www.luzuk.com/product/premium-restaurant-wordpress-theme/"
+msgstr "https://www.luzuk.com/product/premium-restaurant-wordpress-theme/"
+
+#: functions.php:267
+msgid "https://wordpress.org/support/theme/lzrestaurant/"
+msgstr "https://wordpress.org/support/theme/lzrestaurant/"
+
+#: functions.php:272
+msgid "Restaurant WordPress Theme"
+msgstr "Тема WordPress для ресторана"
+
+#: page-template/custom-home-page.php:45
+msgid "READ MORE"
+msgstr "ЧИТАТЬ ДАЛЕЕ"
+
+#: header.php:66
+msgid "Open Menu"
+msgstr "Открыть меню"
+
+#: header.php:79
+msgid "Close Menu"
+msgstr "Закрыть меню"
+
+#: searchform.php:17
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Поиск"
+
+#: header.php:88
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:91
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:97
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: header.php:100
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: page-template/custom-home-page.php:60
+msgid "Prev"
+msgstr "Назад"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должный войти на сайт, чтобы совершить покупку."
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#. translators: %s: search term
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/customizer.php:287
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:298
+msgid "Show / Hide slider"
+msgstr "Слайдер: показать/скрыть"
+
+#: inc/customizer.php:308
+msgid "Select Slide Image Page"
+msgstr "Выбрать страницу с изображением слайда"
+
+#. translators: %s: post title
+#: comments.php:24
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: functions.php:95
+msgid "Welcome to Luzuk!!"
+msgstr "Добро пожаловать в Luzuk!!"
+
+#: functions.php:97
+msgid "GET STARTED"
+msgstr "НАЧАЛО РАБОТЫ"
+
+#: functions.php:96
+msgid "Thank you for choosing LZ Restaurant theme. It will be our pleasure to have you on our Welcome page to serve you better."
+msgstr "Благодарим вас за выбор темы LZ Restaurant. Мы будем рады видеть вас на нашей приветственной странице, чтобы обслуживать вас лучше."
+
+#: inc/getting-started/getting-started.php:5
+msgid "About Theme"
+msgstr "О теме"
+
+#: inc/getting-started/getting-started.php:31
+msgid "Start Customizing"
+msgstr "Начать настройку"
+
+#: inc/getting-started/getting-started.php:33
+msgid "Go to"
+msgstr "Перейти к"
+
+#: inc/getting-started/getting-started.php:33
+msgid "Customizer"
+msgstr "Настройка темы"
+
+#: inc/getting-started/getting-started.php:33
+msgid "and start customizing your website"
+msgstr "и начните настраивать свой сайт"
+
+#: inc/getting-started/getting-started.php:37
+#: inc/getting-started/getting-started.php:39
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/getting-started/getting-started.php:39
+msgid "Send your query to our"
+msgstr "Отправьте запрос на наш"
+
+#: inc/getting-started/getting-started.php:53
+msgid "Premium Theme Information"
+msgstr "Информация о премиум теме"
+
+#: inc/getting-started/getting-started.php:57
+msgid "Live Demo"
+msgstr "Демонстрация в реальном времени"
+
+#: inc/getting-started/getting-started.php:58
+msgid "Buy Pro"
+msgstr "Купить Pro"
+
+#: inc/getting-started/getting-started.php:59
+msgid "Pro Documentation"
+msgstr "Документация Pro"
+
+#: inc/getting-started/getting-started.php:63
+msgid "PREMIUM THEME FEATURES"
+msgstr "ФУНКЦИИ ПРЕМИУМ ТЕМЫ"
+
+#: inc/getting-started/getting-started.php:66
+msgid "Banner Slider"
+msgstr "Слайдер баннера"
+
+#: inc/getting-started/getting-started.php:70
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: inc/getting-started/getting-started.php:74
+msgid "Custom Innerpage Banner"
+msgstr "Пользовательские баннеры на внутренней странице"
+
+#: inc/getting-started/getting-started.php:78
+msgid "Custom Colors and Images"
+msgstr "Пользовательские цвета и изображения"
+
+#: inc/getting-started/getting-started.php:82
+msgid "Fully Responsive"
+msgstr "Полная совместимость"
+
+#: inc/getting-started/getting-started.php:86
+msgid "Hide/Show Sections"
+msgstr "Скрыть/показать разделы"
+
+#: inc/getting-started/getting-started.php:90
+msgid "Woocommerce Support"
+msgstr "Поддержка WooCommerce"
+
+#: inc/getting-started/getting-started.php:94
+msgid "Limit to display number of Posts"
+msgstr "Ограничение для отображения количества записей"
+
+#: inc/getting-started/getting-started.php:98
+msgid "Multiple Page Templates"
+msgstr "Несколько шаблонов страниц"
+
+#: inc/getting-started/getting-started.php:102
+msgid "Custom Read More link"
+msgstr "Пользовательская ссылка Читать далее"
+
+#: inc/getting-started/getting-started.php:106
+msgid "Code written with WordPress standard"
+msgstr "Код, написанный по стандарту WordPress"
+
+#: inc/getting-started/getting-started.php:110
+msgid "100% Multi language"
+msgstr "100% многоязычный"
+
+#: inc/getting-started/getting-started.php:25
+msgid "Welcome to LZ Restaurant WordPress Theme"
+msgstr "Добро пожаловать в тему LZ Restaurant для WordPress"
+
+#: inc/getting-started/getting-started.php:46
+msgid "Get started with Free Restuarant Theme"
+msgstr "Начните с бесплатной темы Restuarant"
+
+#: inc/getting-started/getting-started.php:43
+msgid "LZ Restaurant is a multipurpose WordPress theme developed especially for websites that deal with coffee, cafe, cakes, bakery, cuisine, recipe, fast food, Chinese dishes, and other eatery businesses. This is the must-have theme for food critics and bloggers to establish beautiful websites for bakery, barbecues, hotel, food joint, Italian restaurants, lodge, and grill houses. The clean restaurant theme is purely mobile responsive supporting all screen size devices. The theme is so user-friendly and easily customizable that even if you arent a professional developer, you can work on it. You get ample of personalization options to modify the theme into your choice of look and appearance. The theme has an elegant banner thereby allowing you to feature your business in the best manner on the homepage itself. The testimonial section makes it more alluring as it displays the feedback given by people who have visited your WordPress website. Furthermore, the Call to action (CTA) button drives in abundance of clicks giving a boost in lead generation. The restaurant theme is highly interactive with a number of pages to display stunning meals! The different shortcodes keep you away from indulging in the source code. The social media integration removes the need to have additional social media plugins. The SEO friendly nature of the theme guarantees to bring your site on top of search engines. Built on Bootstrap, using optimized codes, the theme is clean and extremely lightweight. Launch your very own entirely functional WP restaurant website with this amazing theme now!"
+msgstr "LZ Restaurant — это многоцелевая тема WordPress, разработанная специально для веб-сайтов, посвященных кофе, кафе, пирожным, хлебобулочным изделиям, кухне, рецептам, фаст-фуду, китайским блюдам и другим предприятиям общественного питания. Это обязательная тема для кулинарных критиков и блоггеров, позволяющая создавать красивые веб-сайты о пекарнях, барбекю, отелях, ресторанах, итальянских ресторанах, домиках и гриль-хаусах. Тема «Чистый ресторан» полностью адаптирована для мобильных устройств и поддерживает устройства с любым размером экрана. Тема настолько удобна для пользователя и легко настраивается, что даже если вы не профессиональный разработчик, вы сможете над ней работать. Вы получаете множество возможностей персонализации, позволяющих изменить внешний вид темы по вашему выбору. Тема имеет элегантный баннер, что позволяет вам наилучшим образом представить свой бизнес на самой главной странице. Раздел отзывов делает его более привлекательным, поскольку в нем отображаются отзывы людей, посетивших ваш сайт WordPress. Кроме того, кнопка «Призыв к действию» (CTA) обеспечивает большое количество кликов, что приводит к увеличению количества потенциальных клиентов. Тема ресторана очень интерактивна: на нескольких страницах представлены потрясающие блюда! Различные короткие коды не позволяют вам заниматься исходным кодом. Интеграция с социальными сетями устраняет необходимость в дополнительных плагинах социальных сетей. SEO-дружественный характер темы гарантирует вывод вашего сайта на вершину поисковых систем. Созданная на основе Bootstrap с использованием оптимизированных кодов, тема чистая и чрезвычайно легкая. Запустите свой собственный полностью функциональный веб-сайт ресторана WP с этой удивительной темой прямо сейчас!"
+
+#: inc/customizer.php:153
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#: archive.php:49 archive.php:82 archive.php:114 archive.php:146
+#: archive.php:180 archive.php:215 archive.php:249 index.php:50 index.php:85
+#: index.php:119 index.php:154 index.php:190 index.php:226 index.php:260
+#: search.php:52 search.php:88 search.php:123 search.php:158 search.php:195
+#: search.php:234 search.php:271
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: archive.php:50 archive.php:83 archive.php:115 archive.php:147
+#: archive.php:181 archive.php:216 archive.php:250 index.php:51 index.php:86
+#: index.php:120 index.php:155 index.php:191 index.php:227 index.php:261
+#: search.php:53 search.php:89 search.php:124 search.php:159 search.php:196
+#: search.php:235 search.php:272
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: archive.php:51 archive.php:84 archive.php:116 archive.php:148
+#: archive.php:182 archive.php:217 archive.php:251 index.php:52 index.php:87
+#: index.php:121 index.php:156 index.php:192 index.php:228 index.php:262
+#: search.php:54 search.php:90 search.php:125 search.php:160 search.php:197
+#: search.php:236 search.php:273
+msgid "Page"
+msgstr "Страница"
+
+#: template-parts/page/content-page.php:23
+#: template-parts/post/content-audio.php:63
+#: template-parts/post/content-gallery.php:50
+#: template-parts/post/content-image.php:44
+#: template-parts/post/content-video.php:63 template-parts/post/content.php:44
+#: template-parts/post/grid-layout.php:41
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: search.php:18
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: searchform.php:19
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: single.php:35 single.php:61 single.php:87 single.php:113 single.php:140
+#: single.php:168 single.php:195
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: single.php:35 single.php:61 single.php:87 single.php:113 single.php:140
+#: single.php:168 single.php:195
+msgid "Previous"
+msgstr "Назад"
+
+#: single.php:36 single.php:62 single.php:88 single.php:114 single.php:141
+#: single.php:169 single.php:196
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: page-template/custom-home-page.php:64 single.php:36 single.php:62
+#: single.php:88 single.php:114 single.php:141 single.php:169 single.php:196
+msgid "Next"
+msgstr "Далее"
+
+#: functions.php:103
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: functions.php:105
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте сюда виджеты для их помещения в область виджетов в записях блога и страницах архива."
+
+#: functions.php:113
+msgid "Sidebar 2"
+msgstr "Область виджетов 2"
+
+#: functions.php:115 functions.php:125
+msgid "Add widgets here to appear in your pages and posts"
+msgstr "Добавьте сюда виджеты для их помещения на страницы и записи"
+
+#: functions.php:123
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: functions.php:133
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:135 functions.php:145 functions.php:155 functions.php:165
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты для отображения в подвале."
+
+#: functions.php:143
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:153
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:163
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#. Template Name of the theme
+msgid "Page right sidebar"
+msgstr "Правая область виджетов страницы"
+
+#. Template Name of the theme
+msgid "Page left sidebar"
+msgstr "Левая область виджетов страницы"
+
+#. Template Name of the theme
+msgid "Custom Home"
+msgstr "Пользовательская главная страница"
+
+#: search.php:42 search.php:78 search.php:113 search.php:148 search.php:185
+#: search.php:224 search.php:261
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: index.php:19
+msgid "Posts"
+msgstr "Записи"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: 404.php:19
+msgid "Return to home page"
+msgstr "Вернуться на главную страницу"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, что ничего не было найдено в этом месте. Может, попробовать поискать?"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: inc/customizer.php:131
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: inc/customizer.php:132
+msgid "Description of what this panel does."
+msgstr "Описание того, что делает эта панель."
+
+#: inc/customizer.php:136
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: inc/customizer.php:149
+msgid "Do you want this section"
+msgstr "Вы хотите, чтобы этот раздел"
+
+#: inc/customizer.php:152
+msgid "Left Sidebar"
+msgstr "Левая область виджетов"
+
+#: inc/customizer.php:154
+msgid "One Column"
+msgstr "Один столбец"
+
+#: inc/customizer.php:155
+msgid "Three Columns"
+msgstr "Три столбца"
+
+#: inc/customizer.php:156
+msgid "Four Columns"
+msgstr "Четыре столбца"
+
+#: inc/customizer.php:157
+msgid "Grid Layout"
+msgstr "Макет сетки"
+
+#: inc/template-tags.php:19
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:40
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Изменить<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: header.php:69
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: inc/customizer.php:190
+msgid "Add Facebook link"
+msgstr "Добавить ссылку на Facebook"
+
+#: inc/customizer.php:201
+msgid "Add Twitter link"
+msgstr "Добавить ссылку на Twitter"
+
+#: inc/customizer.php:441
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: inc/customizer.php:472
+msgid "Select Product Page"
+msgstr "Выберите страницу товара"
+
+#. translators: %s: Name of current post
+#: functions.php:197
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/custom-header.php:24
+msgid "Default Header Image"
+msgstr "Изображение заголовка по умолчанию"
+
+#: inc/customizer.php:721
+msgid "Upgrade Pro"
+msgstr "Обновиться до Pro"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#: inc/customizer.php:179
+msgid "Social Icon Section"
+msgstr "Раздел значков соцсети"
+
+#: inc/customizer.php:223
+msgid "Add Pintrest link"
+msgstr "Добавить ссылку на Pinterest"
+
+#: inc/customizer.php:234
+msgid "Add Tumblr link"
+msgstr "Добавить ссылку на Tumblr"
+
+#: inc/customizer.php:406
+msgid "Feature Products"
+msgstr "Рекомендуемые товары"
+
+#: inc/customizer.php:430
+msgid "Section Short Title"
+msgstr "Краткое название раздела"
+
+#: inc/customizer.php:720
+msgid "LZ Restaurant Pro"
+msgstr "LZ Restaurant Pro"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Luzuk"
+msgstr "Luzuk"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.luzuk.com/"
+msgstr "https://www.luzuk.com/"
+
+#. Theme URI of the theme
+#: style.css functions.php:268 template-parts/footer/site-info.php:12
+#, gp-priority: low
+msgid "https://www.luzuk.com/themes/free-restaurant-wordpress-theme/"
+msgstr "https://www.luzuk.com/themes/free-restaurant-wordpress-theme/"
